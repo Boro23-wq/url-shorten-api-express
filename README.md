@@ -1,15 +1,14 @@
-# URL Shortener Service
+# URL Shortener
 
-> API to create short urls using Node, Express and MongoDB
+> API for shortening URL, built using Node, Express and MongoDB
 
-## Quick Start
+## Installation
 
 ```bash
 # Install dependencies
 npm install
 
 # Edit the default.json file with your mongoURI and baseUrl
-# Use production.json in production env
 
 # Run
 npm start
